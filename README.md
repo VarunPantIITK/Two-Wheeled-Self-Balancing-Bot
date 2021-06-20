@@ -25,7 +25,7 @@ _Coming soon_
 1. Effectively searching Google :)
 2. Git and Github basics
 3. MATLAB
-4, Simulink
+4. Simulink
 5. C.A.D.
 6. P.I.D. Controller
 
