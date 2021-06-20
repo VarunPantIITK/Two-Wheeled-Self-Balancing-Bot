@@ -11,7 +11,7 @@ Hello I am Varun Pant, 1st year UG in dept. of Aerospace Er., IIT Kanpur. This i
 - There has been varieties of technique to increase the robotic stability on dynamic environments .One such popular technique used for mobile robots is an inverted pendulum based model. We aim to learn it
 
 ## Tasks Accomplished
-1. MATLAB-ONRAMP Course [Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=e9756f63-a6e8-4a29-8bb4-162b6baf939f "View cerificate")
+1. MATLAB-ONRAMP Course [Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e9756f63-a6e8-4a29-8bb4-162b6baf939f "View cerificate")
 2. Simulink ONRAMP Course [Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=13fc5e79-e49d-4fbf-b93d-39c0bcbb2199 "View certificate")
 3. Assignments- Under the respective assignment number folder in this repository
 
