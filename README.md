@@ -1,37 +1,29 @@
 # Two-Wheeled-Self-Balancing-Bot
-Resources and Assignments for Two-Wheeled-Self-Balancing-Bot, Semester Project 2021
+Semester Project 2021
 
-## General Instructions
+Hello I am Varun Pant, 1st year UG in dept. of Aerospace Er., IIT Kanpur. This is my first project as student of IIT-Kanpur. I have taken this project in my freshman year under Robotics Club of SnT Council, IIT Kanpur.
 
-### Using your Local Machine
-1. Fork the repo on GitHub: Use the button at the top right.
-2. Clone the project to your machine
+## Objectives
+- The main objective of this robot is to balance the whole body on two wheels automatically by designing the best possible structure for the body.
+- To demonstrate the method and techniques involved in balancing an unstable robotic platform on two wheels.
+- To design and implement a complete discrete digital control system with the state space model that will provide robotic stability.
+- Design controllers like PID and LQR for two-wheeled robot and their implementation in MATLAB.
+- There has been varieties of technique to increase the robotic stability on dynamic environments .One such popular technique used for mobile robots is an inverted pendulum based model. We aim to learn it
 
-    ```bash
-    git clone https://github.com/${your_username}/Two-Wheeled-Self-Balancing-Bot.git
-    ```
+## Tasks Accomplished
+1. MATLAB-ONRAMP Course [Certificate](https://matlabacademy.mathworks.com/progress/share/report.html?id=e9756f63-a6e8-4a29-8bb4-162b6baf939f "View cerificate")
+2. Simulink ONRAMP Course [Certificate](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=13fc5e79-e49d-4fbf-b93d-39c0bcbb2199 "View certificate")
+3. Assignments- Under the respective assignment number folder in this repository
+_More Coming Soon_
 
-3. Commit your solutions to your own branch: 
+## Project Summary
+_Coming soon_
 
-    Create a new branch by
-
-    ```bash
-    git checkout -b ${your_branch_name}
-    ```
-
-4. Push your work back up to your fork: 
-
-    Navigate to the top-level repo directory and:
-
-    ```bash
-    git add .
-    git commit -m "commit message"
-    git push origin ${your_branch_name} 
-    ```
-
-5. Update the repo on your system by [setting an upstream](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-for-a-fork) to the `main` branch of **this** repository and then running -  
-    ```bash
-    git fetch upstream
-    git checkout main
-    git merge upstream/main
-    ```
+## New skills developed or topics explored
+1. Effectively searching Google :)
+2. Git and Github basics
+3. MATLAB
+4, Simulink
+5. C.A.D.
+6. P.I.D. Controller
+_More coming soon_
