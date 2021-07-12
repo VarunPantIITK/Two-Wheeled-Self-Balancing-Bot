@@ -21,6 +21,9 @@ _More Coming Soon_
 ## Project Summary
 _Coming soon_
 
+## Link to hand-written notes
+_Coming soon_
+
 ## New skills developed or topics explored
 1. Effectively searching Google :)
 2. Git and Github basics
