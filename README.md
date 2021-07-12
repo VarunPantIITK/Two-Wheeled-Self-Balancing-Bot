@@ -25,11 +25,11 @@ _Coming soon_
 This [research paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.657.4398&rep=rep1&type=pdf), was published in International Journal of Mechanical & Mechatronics Engineering _IJMME-IJENS Vol:14 No:03_. The paper concludes that _"A Fuzzy Logic Controller (FLC) which is a non-model based controller and a Linear Quadratic Controller (LQR) which is a model-based controller, and the conventional controller, Proportional Integral Derivative (PID) were implemented and compared on a real time TWIP mobile robot. FLC controller which is non-model based performs better than the LQR and PID controllers in terms faster response and less overshoot, but has higher energy consumption than the other two."_ The study was conclusive of the fact that FLC was best controller. LQR proved to be better than PID.
 
 |**Controllers**|**Rise time (s)**|**Settling time (s)**|**% Overshoot**|**Current (A)**|**Horizontal distance absolute(m)**|
-|---|----|---|--|---|----|
+
 |FLC|1.25|2.5|37|8.7|0.05|
-|---|----|---|--|---|----|
+
 |LQR|0.8|4.2|80|7.5|0.2|
-|---|----|---|--|---|----|
+
 |PID|0.8|6.5|90|7.5|0.23|
 
 The traditional linear modelled controllers like PID and LQR have fairly limited working and we need to know detailed physical properties of the system, and for complicated systems they need to be idealised to develop a controller for them. However for a FLC we do not need detailed knowledge of system nor reducing it to an idealised system is needed. What the controller should do is determined by linguistic rules. Moreover if use of tools like Genetic algorithm is incorporated we can get away without knowing much of anything. 
