@@ -33,11 +33,7 @@ This [research paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.
 |PID|0.8|6.5|90|7.5|0.23|
 |---|----|---|--|---|----|
 
-<<<<<<< HEAD
-The traditional linear modelled controllers like PID and LQR have fairly limited working and we need to know detailed physical properties of the system, and in case of complicated systems we need to idealise them, in order to develop a controller for them. However for a FLC niether detailed knowledge of system nor reducing it to an idealised system is needed. What the controller should do is determined by linguistic rules. Moreover if use of tools like Genetic algorithm is incorporated we can get away without knowing much of anything.
-=======
 The traditional linear modelled controllers like PID and LQR have fairly limited working and we need to know detailed physical properties of the system, and in case of complicated systems we need to idealise them, in order to develop a controller for them. However for a FLC niether detailed knowledge of system nor reducing it to an idealised system is needed. What the controller should do is determined by linguistic rules. Moreover if use of tools like Genetic algorithm is incorporated we can get away without knowing much of anything. 
->>>>>>> c2501480d430a0880ee20ca78a4eb28d1d4da1d1
 
 However being novice in field of Robotics, it is always better to start learning things by idealised simplified models and then moving on to generalised complicated cases. Once we know alphabets, only then can we know the sentences. And going by this tried and tested philosophy, as a part of this project, as I am just starting, thereby will stick to use of P.I.D and L.Q.R controllers. _Only if time permits then FLC will be explored_ ;)
 
