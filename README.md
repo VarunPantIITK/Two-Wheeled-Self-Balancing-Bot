@@ -45,14 +45,21 @@ The detailed write-up of the topic is linked as hand wrutten notes in the next s
 [Notes link on Google Drive](https://drive.google.com/file/d/1lieE8UyDYbOuoxCS7DPHTnXXDwr0xwfO/view?usp=drivesdk "https://drive.google.com/file/d/1lieE8UyDYbOuoxCS7DPHTnXXDwr0xwfO/view?usp=drivesdk")
 
 ## New skills developed or topics explored
-1.Optimal Control Theory(LQR, PID, Kalman Filtering etc.)
-2.MATLAB and Simulink
-3.GIT and GitHub
+1. Optimal Control Theory(LQR, PID, Kalman Filtering etc.)
+
+2. MATLAB and Simulink
+
+3. GIT and GitHub
 
 ## References
 [https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
+
 [https://in.mathworks.com/help/control/ref/lqr.html](https://in.mathworks.com/help/control/ref/lqr.html)
+
 [https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-30-feedback-control-systems-fall-2010/lecture-notes/MIT16_30F10_lec11.pdf](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-30-feedback-control-systems-fall-2010/lecture-notes/MIT16_30F10_lec11.pdf)
+
 [http://eprints.gla.ac.uk/3815/1/IEEE_CS_PID_01580152.pdf](http://eprints.gla.ac.uk/3815/1/IEEE_CS_PID_01580152.pdf)
+
 [https://in.mathworks.com/help/control/getstart/designing-pid-controllers-with-the-pid-tuner-gui.html](https://in.mathworks.com/help/control/getstart/designing-pid-controllers-with-the-pid-tuner-gui.html)
+
 [Reference Code of Prof. Steve Brunton - University of Washington](http://faculty.washington.edu/sbrunton/control_bootcamp_code.zip "http://faculty.washington.edu/sbrunton/control_bootcamp_code.zip")
