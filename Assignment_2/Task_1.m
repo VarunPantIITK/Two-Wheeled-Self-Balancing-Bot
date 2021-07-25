@@ -17,7 +17,7 @@ B= [0; 0; 1/mc; 1/(L*mc)];
 % consider <x>=[q1 q2 q1' q2']
 % q1=distance from origin
 % q2=angle of pendulum rod from top
-C=[0 0 1 0];
+C=[0 1 0 0];
 c_x=[1 0 0 0]; %assuming x to be the measured state
 
 D=[0];
