@@ -63,3 +63,7 @@ The detailed write-up of the topic is linked as hand wrutten notes in the next s
 [https://in.mathworks.com/help/control/getstart/designing-pid-controllers-with-the-pid-tuner-gui.html](https://in.mathworks.com/help/control/getstart/designing-pid-controllers-with-the-pid-tuner-gui.html)
 
 [Reference Code of Prof. Steve Brunton - University of Washington](http://faculty.washington.edu/sbrunton/control_bootcamp_code.zip "http://faculty.washington.edu/sbrunton/control_bootcamp_code.zip")
+
+[https://core.ac.uk/reader/19451569](https://core.ac.uk/reader/19451569)
+
+[https://www.youtube.com/watch?v=VFXf1lIZ3p8](https://www.youtube.com/watch?v=VFXf1lIZ3p8)
