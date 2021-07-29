@@ -31,6 +31,8 @@ The traditional linear modelled controllers like PID and LQR have fairly limited
 
 However being novice in field of Robotics, it is always better to start learning things by idealised simplified models and then moving on to generalised complicated cases. Once we know alphabets, only then can we know the sentences. And going by this tried and tested philosophy, as a part of this project, as I am just starting, thereby will stick to use of P.I.D and L.Q.R controllers.
 
+[LQR better than PID](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.545.6096&rep=rep1&type=pdf#:~:text=For%20the%20last%20characteristic%2C%20both,response%20faster%20than%20PID%20controller.&text=It%20shows%20that%20LQR%20control,compared%20to%20PID%20control%20method)
+
 As a part of this project, Optimal Control Theory has been explored. We first looked at the basics of Control theory, the difference between open loop control and closed loop feedback control and the superiority of the latter over former. Then we looked at ideal and linear space-state system and their solutions. The nature of the state at vaious points in space was also explored. The stability of state for both discrete and continous system in space was studied and the criterion was analysed using the mathematical knowledge of Linear Algebra. Following this inearisation around fixed points, controllability, reachability and degrees of controllability was seen. For a controllable system, we can place the poles/Eigen values at any point in space. Thereafter, we designed a penalty function and in order to optimise it, we determined appropriate constant K for the for the LQR. 
 Since sensors are expensive and use energy, so employing them for taking all measurements is not not cost effective and energy efficient. So we measure only few of the measurable states and then use the Kalman Filter to estimate the rest of the states using it. We also determined the effect of **System disturbance** and **sensor noise** on the full state estimation done by Kalman filter
 Finally we designed a LQG- Linear Quadratic Gaussian controller with the combination of LQR and Kalman filter.
@@ -67,3 +69,9 @@ The detailed write-up of the topic is linked as hand wrutten notes in the next s
 [https://core.ac.uk/reader/19451569](https://core.ac.uk/reader/19451569)
 
 [https://www.youtube.com/watch?v=VFXf1lIZ3p8](https://www.youtube.com/watch?v=VFXf1lIZ3p8)
+
+[https://www.youtube.com/watch?v=QtmVFlZi5T8](https://www.youtube.com/watch?v=QtmVFlZi5T8)
+
+[https://www.youtube.com/watch?v=SY8KtZ2hO9Q](https://www.youtube.com/watch?v=SY8KtZ2hO9Q)
+
+[https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/](https://www.theconstructsim.com/ros-projects-exploring-ros-using-2-wheeled-robot-part-1/)
